@@ -30,5 +30,12 @@
     <li>또다른 수상 경력은 여기에</li>
   </ul>
 </section>
+<section>
+  <h3>자격증</h3>
+  <p>ISTQB FL</p>
+  <p>워드프로세서 2급</p>
+  <p>운전면허 오토 2종</p>
+  </ul>
+</section>
   </article>
 </main>
