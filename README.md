@@ -1,27 +1,16 @@
 <!-- resume_hodu -->
-<html></html>
+<html>
 <head>
     <meta charset="UTF-8">
-    <style>
-      /*h1 {color:red;}-->
-        p {color:blue;}*/
-    </style>
-    
     <h2>이지현</h2> 
-   
-    <b>e-mail: mangopad77@gmail.com</b>
-   
+    <b>e-mail: mangopad77@gmail.com</b>   
    <hr>
   </head>
   <body>
-
- 
   <main>
     <article id="mainLeft">
-   
   <section>
     <h3><u>경력</u></h3>
-    
     <p>인피닉 입사 (16.11 ~ 현재)</p>
      <ol>
       <li>LG MC 모바일 사업부 _ 팀원 </li>
@@ -33,7 +22,6 @@
   </section>
   <section>
     <h3><u>경력 Detail</u></h3>
-
     <h4>LG MC 모바일 사업부 (16.11 ~ 18.11 / 2년) </h4>
     <p>국내향 및 해외향 단말 검증</p>
         <ul>
@@ -45,19 +33,16 @@
           <li>자동화 테스트 진행</li>
      </ul>  
     </section>
-
     <section>
      <h4>LG 헤드셋 검증 (17.08 / 1개월)</h4>
       <li>기본기능 TC 진행 </li>
       <li>유저 시나리오 기반 어쩌구 </li>
     </section>
-
     <section>
      <h4>네이버 쇼핑 반응형 App, Web 서비스 QA (21.07 / 1개월)</h4>
          <li>모바일, 웹 사이트 환경별 테스트</li>
          <li>기획서 기반 기본 기능 테스트 </li>
     </section>
-
     <section>
       <h4>네이버 지도 App, Web QA (18.11 ~ 22.12 / 진행중)</h4>
         <p>지도 기능 앱,  검증</p>
@@ -69,7 +54,6 @@
       <li>Clova 내비 음성인식 테스트 </li>
       <li> 이슈 등록 및 관리 (Git hub) </li>
     </ul>
-
   </section>
   <hr />
   <section>
@@ -87,7 +71,6 @@
         <p> 산본고등학교 졸업 13.02 </p> 
     </article>
   </main>
-
   <!--<template>
     <h2>Flower</h2>
     <img src="img_white_flower.jpg" width="214" height="204">
