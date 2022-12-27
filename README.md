@@ -46,7 +46,13 @@
   <p>ISTQB FL</p>
   <p>워드프로세서 2급</p>
   <p>자동자 운전면허 2종</p>
+  <p>Cross fit JUDGES 2022</p>
   </ul>
-</section>
+ </section>
+    
+
+   <h3>학력</h3>
+
+
   </article>
 </main>
